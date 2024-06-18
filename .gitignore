@@ -1,0 +1,45 @@
+.pyenv# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Virtual environments
+venv/
+env/
+env.bak/
+env/bin/activate
+env/bin/activate.csh
+env/bin/activate.fish
+env/bin/activate.ps1
+env/bin/activate.bat
+env/bin/Deactivate
+env/bin/Get-Pip.py
+env/bin/pip
+env/bin/pip3
+env/bin/python
+env/bin/python3
+env/bin/python-config
+env/bin/pydoc
+env/bin/easy_install
+env/bin/easy_install-3
+env/bin/easy_install.py
+env/bin/easy_install-3.4.py
+env/bin/easy_install-3.5.py
+env/bin/easy_install-3.6.py
+env/bin/easy_install-3.7.py
+env/bin/easy_install-3.8.py
+env/lib/python*
+env/lib/python*/site-packages
+
+# Other
